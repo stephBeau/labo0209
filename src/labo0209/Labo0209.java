@@ -16,6 +16,7 @@ public class Labo0209 {
      */
     public static void main(String[] args) {
         // Version 1
+        System.out.println("Hello");
     }
     
 }
